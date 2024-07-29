@@ -15,6 +15,7 @@ this is a line2
 this is line3
  this is line5
 
-git config --global user.email "ssbadanatti@gmail.com"
+======
+
 >>>>>>> b2bae0c825c5ef659b4600ff71d549f069f345c3
 
